@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-24T02:47:21Z" name="Default suite" finished-at="2020-12-24T02:47:41Z" duration-ms="19515">
+    <groups>
+    </groups>
+    <test started-at="2020-12-24T02:47:21Z" name="Default test" finished-at="2020-12-24T02:47:41Z" duration-ms="19515">
+      <class name="DaviesGroup.SolutionsFireInvestigationTest">
+        <test-method signature="navigatingToFireInvestigation()[pri:0, instance:DaviesGroup.SolutionsFireInvestigationTest@1e66f1f5]" started-at="2020-12-24T02:47:21Z" name="navigatingToFireInvestigation" finished-at="2020-12-24T02:47:41Z" duration-ms="19471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatingToFireInvestigation -->
+      </class> <!-- DaviesGroup.SolutionsFireInvestigationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
